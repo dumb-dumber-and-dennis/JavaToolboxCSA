@@ -14,7 +14,7 @@ You can either download the tb.java file or you can just copy and paste the text
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/dumb-dumber-and-dennis/JavaToolboxCSA/blob/main/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
@@ -26,4 +26,4 @@ We use [SemVer](http://semver.org/) for versioning.
 * **Andrew Pristatsky** - [daredrew2](https://github.com/daredrew2)
 * **Dennis Delenyan** - [SC7RED](https://github.com/SC7REF)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/dumb-dumber-and-dennis/JavaToolboxCSA/graphs/contributors) who participated in this project.
