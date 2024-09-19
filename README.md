@@ -1,10 +1,10 @@
 # Java Toolbox for CSA
 
-A java toolbox used for CSA. Includes different types of methods to be used in other classes in your project. Just copy and paste.
+A java toolbox used for CSA. Includes different types of methods to be used in other classes in your project. Just copy and paste. This project is updated and checked for bugs daily.
 
 ### Prerequisites
 
-*[BlueJ 3.1.7+](https://www.bluej.org/versions.html)
+*[BlueJ 3.1.7+](https://www.bluej.org/versions.html) or any modern IDE
 
 *[Java 21+](https://www.oracle.com/java/technologies/downloads/)
 
