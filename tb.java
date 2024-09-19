@@ -51,7 +51,7 @@ return rounded;
 }
   public static void print(String string)//this method prints
 {
-System.out.print(string);
+System.out.println(string);
 }
   public static void print(int a){
     System.out.println(a);
