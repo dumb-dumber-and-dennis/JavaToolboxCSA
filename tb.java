@@ -1,8 +1,8 @@
 /**
 * Toolbox class
 *
-* @author Oham09
-* @version 9.18.2007
+* @author Oham09, SC7RED, daredrew2
+* @version 9.19.2024
 */
 
 import java.util.Scanner;
