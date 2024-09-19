@@ -1,6 +1,6 @@
 # Java Toolbox for CSA
 
-A java toolbox used for CSA. Includes different types of methods to be used in other classes in your project. Just copy and paste.
+A java toolbox used for CSA. Includes different types of methods to be used in other classes in your project. Just copy and paste. This project is updated and checked for bugs daily.
 
 ### Prerequisites
 
