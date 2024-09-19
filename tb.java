@@ -11,10 +11,7 @@ public class tb
 {
 static Scanner scammy = new Scanner(System.in);
 
-public static void print(String string)//this method prints
-{
-System.out.print(string);
-}
+
 
 public static int getInt(String message)//this method gets an int and adds a message
 {
@@ -52,4 +49,17 @@ place = Math.pow(10.0, place);
 double rounded = (int)(num * place + 0.5) / place;
 return rounded;
 }
+  public static void print(String string)//this method prints
+{
+System.out.print(string);
+}
+  public static void print(int a){
+    System.out.println(a);
+    }
+        public static void print(double a){
+    System.out.println(a);
+    }
+        public static void print(char a){
+    System.out.println(a);
+    }
 }
