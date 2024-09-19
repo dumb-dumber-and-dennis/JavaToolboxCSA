@@ -18,7 +18,7 @@ Please read [CONTRIBUTING.md](https://github.com/dumb-dumber-and-dennis/JavaTool
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. test
+We use [SemVer](http://semver.org/) for versioning.
 
 ## Authors
 
