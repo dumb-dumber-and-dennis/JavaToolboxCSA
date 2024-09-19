@@ -27,3 +27,7 @@ We use [SemVer](http://semver.org/) for versioning.
 * **Dennis Delenyan** - [SC7RED](https://github.com/SC7REF)
 
 See also the list of [contributors](https://github.com/dumb-dumber-and-dennis/JavaToolboxCSA/graphs/contributors) who participated in this project.
+
+## License
+
+Distributed under the MIT License. See [MIT License](https://github.com/dumb-dumber-and-dennis/JavaToolboxCSA/blob/main/LICENSE.txt) for more information.
