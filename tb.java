@@ -5,7 +5,7 @@
 * @author Oham09, SC7RED, daredrew2
 * @version 9.19.2024
 * 
-* test
+* testing
 */
 
 import java.util.Scanner;
@@ -71,3 +71,4 @@ public class tb
         System.out.println(a);
     }
 }
+
