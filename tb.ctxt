@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=string
+comment0.target=void\ print(java.lang.String)
+comment1.params=message
+comment1.target=int\ getInt(java.lang.String)
+comment2.params=message
+comment2.target=double\ getDouble(java.lang.String)
+comment3.params=message
+comment3.target=char\ getChar(java.lang.String)
+comment4.params=message
+comment4.target=java.lang.String\ getString(java.lang.String)
+comment5.params=num\ place
+comment5.target=double\ round(double,\ double)
+numComments=6
