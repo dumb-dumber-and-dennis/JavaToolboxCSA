@@ -22,9 +22,9 @@ public class tb
 
   public static double getDouble(String message)//this method gets a double and adds a message
   {
-  print(message);
-  double myDouble = scammy.nextDouble();
-  return myDouble;
+    print(message);
+    double myDouble = scammy.nextDouble();
+    return myDouble;
   }
   
   public static char getChar(String message)//this method gets a char and adds a message
